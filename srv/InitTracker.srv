@@ -1,0 +1,6 @@
+sensor_msgs/Image frame
+BoundingBox bounding_box
+
+---
+
+std_msgs/Bool ack
