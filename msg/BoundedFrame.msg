@@ -1,1 +1,0 @@
-sensor_msgs/Image bounded_frame
