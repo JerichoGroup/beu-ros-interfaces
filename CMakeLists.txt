@@ -13,7 +13,6 @@ add_message_files(
   FILES
     BoundingBox.msg
     TrackerResult.msg
-    BoundedFrame.msg
 )
 
 add_service_files(
